@@ -3,7 +3,7 @@
 # Languages;
 
 - Lua
-- Python
+- Python (Around Intermediate)
 - Batch-Script
 
 <img src="https://cdn.discordapp.com/attachments/1046837773790883912/1106351381931118652/Lua-Logo.png" width="60" height="60"> <img
